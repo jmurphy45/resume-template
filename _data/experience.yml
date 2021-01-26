@@ -3,17 +3,17 @@
 - company: EPG an Assurant Company
   position: Lead Web Developer
   duration: Apr, 2018 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Led the development of API first design.</li><li>Moved architecture from Monolithic to a hybrid Micro-service architecture.</li><li>Developed international insurance system with PHP and Laravel, and led the integration of Vue.js.</li><li>Refactored core functionality into PHP and Laravel packages to use across suite of applications.</li></ul>
 
 # Web Developer
 - company: Crisp Marketing
   position: Web Developer
   duration:  Sep, 2017 &mdash; Apr, 2018
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+  summary: <ul class="resume-item-list"><li>Intigrated third party API's.</li><li>Wrote front-end clients to maximize profits.</li></ul>
 
 
 # Digital Media Intern
 - company: Signature Advertising
   position: Digital Media Intern
   duration:   Feb, 2015  &mdash; Aug, 2017
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  summary: In this position I assist in the development and maintenance of client websites using HTML, CSS, PHP, and WordPress.
