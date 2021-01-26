@@ -2,11 +2,11 @@
 - degree: Master of Business Administration, Professional
   uni: The University of Memphis
   year: 2017 &mdash; 2018
-  summary: If you had any meaningful roles at college, feel free to write about them here
+  # summary: If you had any meaningful roles at college, feel free to write about them here
 
 - degree: Bachelor of Science - BS, Computer Science
   uni: The University of Memphis
   year: 2004
   awards:
     - award: Magna Cum Laude
-  summary: You can choose to have either a single or multiple awards
+  # summary: You can choose to have either a single or multiple awards
